@@ -90,7 +90,8 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-10-28 140546-1.png>)
+![Screenshot 2023-10-28 140546](https://github.com/THARUNDT/simplewebserver/assets/144871537/4f6bcbd7-c6d2-41ed-ab6f-6c22a0294b45)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
